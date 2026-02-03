@@ -2,6 +2,9 @@
 
 A simple macOS menu bar application that prevents your system from sleeping for a user-specified duration.
 
+<img width="246" height="299" alt="image" src="https://github.com/user-attachments/assets/dbe39623-cd42-4c3f-bf60-f343ca6112ff" />
+
+
 ## Features
 
 - Keep your Mac awake for predefined time intervals
