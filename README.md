@@ -22,7 +22,7 @@ A simple macOS menu bar application that prevents your system from sleeping for 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/kape-pa.git
+   git clone https://github.com/PtrckM/kape-pa.git
    cd kape-pa
    ```
 
