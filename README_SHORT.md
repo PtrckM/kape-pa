@@ -7,7 +7,7 @@ A simple macOS menu bar application that prevents your system from sleeping for 
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/kape-pa.git
+git clone https://github.com/PtrckM/kape-pa.git
 cd "kape-pa/kape pa"
 open "kape pa.xcodeproj"
 # In Xcode: Press Cmd+R to build and run
